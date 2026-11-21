@@ -1,0 +1,5 @@
+# Install only the features you intend to use.
+scipy>=1.11
+faster-whisper>=1.0
+# pyannote.audio, torch, transformers, sentencepiece and Ollama are optional.
+# Follow upstream installation instructions for the required accelerator/runtime.
